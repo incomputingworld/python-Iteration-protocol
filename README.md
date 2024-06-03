@@ -1,5 +1,5 @@
 # python-Iteration-protocol  
-Python: Understand and implement the concept of Iteration protocol.  
+Python: Understand and implement the concept of the Iteration protocol.  
 
 ## Python - Iteration Protocol - Part 1  
 
@@ -14,7 +14,7 @@ The class BookCollection is an iterable iterator. Implements the dunder function
 
 ### my_book_collection_4.py  
 The class BookCollection is an iterator. This class implements a dunder function \_\_iter\_\_ that returns an iterator object.  
-The class BooksIterator is an iterator class that implements the dunder function \_\_next\_\_.
+BooksIterator is an iterator class that implements the dunder function \_\_next\_\_.
 
 ### my_book_collection_5.py  
-The class BookCollection is implemented both Sequence and iterator protocol.
+The class BookCollection implements both Sequence and iterator protocol.
