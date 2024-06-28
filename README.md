@@ -1,7 +1,10 @@
 # python-Iteration-protocol  
 Python: Understand and implement the concept of the Iteration protocol.  
 
-## Python - Iteration Protocol - Part 1  
+## Python - Iteration Protocol - Part 1   
+### Article link  
+substack.com - https://sunilkathuria.substack.com/p/python-iteration-protocol-part-1  
+Medium.com - https://medium.com/incomputingworld/python-iteration-protocol-part-1-2617ef29cd90  
 
 ### my_book_collection_1.py  
 The class BookCollection implements two dunder functions - \_\_len\_\_ and \_\_getitem\_\_ to simulate Sequence protocol.  
@@ -23,6 +26,9 @@ The class BookCollection implements both Sequence and iterator protocol.
 
 ### generator.py  
 The file contains the implementation of a generator function, generator expression, and generator chaining.   
+### Article link  
+substack.com - https://sunilkathuria.substack.com/p/python-iteration-protocol-part-2  
+Medium.com - https://medium.com/@sunilkathuria/python-iteration-protocol-part-2-88a0429016e2  
 
 ### my_book_collection_6.py  
 The class BookCollection is an iterable iterator. It implements the dunder function - \_\_iter\_\_ and a generator function. The \_\_iter\_\_ function returns a generator object to a caller.  
